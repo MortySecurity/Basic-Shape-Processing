@@ -5,5 +5,6 @@ void setup() {
 void draw() {
   fill(255);
   stroke(255,0,0);
-  rect(250,250,100,100);
+  rectMode(CENTER);
+  rect(mouseX,mouseY,100,100);
 }
