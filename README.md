@@ -1,4 +1,4 @@
-# Basic_Shape_Processing
+# Basic Shape Processing
 
 When the user clicks on the screen, the shape and colours change.
 
